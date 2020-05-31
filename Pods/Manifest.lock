@@ -1,0 +1,25 @@
+PODS:
+  - CTMediator (32)
+  - iOS-Component-ModuleA (0.3.1)
+  - iOS-Component-ModuleB (0.1.0)
+
+DEPENDENCIES:
+  - CTMediator
+  - iOS-Component-ModuleA
+  - iOS-Component-ModuleB
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - iOS-Component-ModuleA
+    - iOS-Component-ModuleB
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - CTMediator
+
+SPEC CHECKSUMS:
+  CTMediator: 10f2c387be0ab2061b75b88c86f9903eedba1ce8
+  iOS-Component-ModuleA: 911b89a07044791bfc53c29ad53e622e244c5608
+  iOS-Component-ModuleB: dd6cfeb3ef1488069f0d85febfc109a686cb9647
+
+PODFILE CHECKSUM: 142b487ee708ad5eb177b5da33ff81f74bb99e7d
+
+COCOAPODS: 1.9.2

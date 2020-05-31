@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-iOS-Component/Pods-iOS-Component-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CTMediator/CTMediator.framework
+${BUILT_PRODUCTS_DIR}/iOS-Component-ModuleA/iOS_Component_ModuleA.framework
+${BUILT_PRODUCTS_DIR}/iOS-Component-ModuleB/iOS_Component_ModuleB.framework
